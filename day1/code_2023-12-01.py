@@ -1,6 +1,4 @@
 import re
-import time
-from numpy import argsort
 with open("input2_2023-12-01") as f:
 	lines = f.readlines()
 
